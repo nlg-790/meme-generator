@@ -1,0 +1,27 @@
+#meme-image{
+    width: 70%;
+    height: 15px;
+    padding: 3px 9px;
+}
+
+#top-caption{
+    width: 70%;
+    height: 15px;
+    padding: 3px 9px;
+}
+
+#bottom-caption{
+    width: 70%;
+    height: 15px;
+    padding: 3px 9px;
+}
+
+#meme{
+    position: relative;
+    width: 100px;
+}
+
+#showcase{
+    display: flex;
+}
+
